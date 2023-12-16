@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danilov Nik</h1>
 <h3 align="center">A novice frontend developer</h3>
 
-- 🔭 I’m currently studying at **Skillbox**
+- 🔭 Сurrently studying Frontend at **Skillbox**
 
-- 🌱 I’m currently learning **React & TypeScript**
+- 🌱 Now I'm learning **React & TypeScript**
 
 - 📫 Email me anytime **nik.danilov@yahoo.com**
 
